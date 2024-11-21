@@ -1,0 +1,10 @@
+langchain==0.2.16
+langchain-core<0.3.0
+langchain-openai
+langchain_chroma
+langchain_huggingface
+langchain_community
+unstructured[pdf]
+pandas
+python-magic-bin
+pysqlite3-binary
