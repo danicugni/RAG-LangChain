@@ -1,10 +1,9 @@
 langchain==0.2.16
 langchain-core<0.3.0
-langchain-openai
-langchain_chroma
-langchain_huggingface
-langchain_community
-unstructured[pdf]
-pandas
-python-magic-bin
-pysqlite3-binary
+langchain-openai<=0.1.25
+langchain_chroma<=0.1.4
+langchain_huggingface<=0.0.3
+langchain_community<=0.2.17
+unstructured[pdf]<=0.11.8
+pandas<=1.3.5
+python-magic-bin<=0.4.14
